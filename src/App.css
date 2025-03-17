@@ -1,0 +1,18 @@
+.lorem{
+    color: green;
+    padding: 10px;
+    line-height: 16px;
+    font-weight: 20px;
+    font-family: 'sans-serif';
+}
+p{
+    color:blue;
+}
+.hello{
+    text-align: center;
+    color: green;
+    /* tagname<classname */
+}
+#para{
+    color: #E16A54
+}
